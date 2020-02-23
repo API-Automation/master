@@ -1,3 +1,4 @@
 # master
-主分支代码库
-框架结构形成
+1、日志模块封装完成，100M进行切割
+2、整体框架Python+pytest+request+pytest自带的html
+
